@@ -29,15 +29,15 @@ function HeroSection() {
           "Human-Like AI Interactions for Voice & Chat—Engage, Support, and Convert"
         </h1>
         <p className="hero-paragraph">
-          "Rex AI offers lifelike AI voice and chat agents to enhance customer engagement, streamline support, and boost sales. Experience real-time conversations tailored to each user."
+          "Shadowclone AI offers lifelike AI voice and chat agents to enhance customer engagement, streamline support, and boost sales. Experience real-time conversations tailored to each user."
 
         </p>
         <div className="hero-buttons">
           <button 
-          data-cal-namespace="30min" data-cal-link="Rex-ai-demo/30min" data-cal-config='{"layout":"month_view"}' className="hero-button-primary"
+          data-cal-namespace="30min" data-cal-link="Shadowclone-ai-demo/30min" data-cal-config='{"layout":"month_view"}' className="hero-button-primary"
             >
             <i className="fas fa-arrow-right" style={{ marginRight: "8px" }}></i>
-            Get Started with Rex AI
+            Get Started with Shadowclone AI
           </button>
           {/* <button className="hero-button-secondary">
             <i className="fas fa-calendar-alt" style={{ marginRight: "8px" }}></i>
